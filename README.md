@@ -23,8 +23,8 @@ Jag fokuserar på .NET, C# och molntjänster med Azure.
 
 - 📖 Studerar Backend Development på NBI Handelsakademin
 - ☁️ Lär mig Azure och molnarkitektur
-- 🔍 Söker LIA-praktik **oktober–december 2026** och **februari–may 2027**
+- 🔍 Söker LIA-praktik **februari–maj 2027**
 
 ## 📫 Kontakt
-
+https://www.linkedin.com/in/mirjana-ristic/
 📧 mima34.mg@gmail.com
