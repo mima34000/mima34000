@@ -14,10 +14,13 @@ Jag fokuserar på .NET, C# och molntjänster med Azure.
 ## 📚 Mina projekt
 
 | Projekt | Beskrivning | Tekniker |
-|---|---|---|
-| [DataVerseManager](https://github.com/mima34000/DataVerseManager) | Budget & utgiftshanterare i terminalen | C#, Spectre.Console, JSON |
-| [SQL-SocialMedia-Database](https://github.com/mima34000/SQL-SocialMedia-Database) | Social media databas med SQL Server och EF Core | SQL, C#, EF Core |
-| [PersonalBudgetTracker1](https://github.com/mima34000/PersonalBudgetTracker1) | Enkel konsol-app för att spåra inkomster och utgifter | C#, .NET |
+| :--- | :--- | :--- |
+| **[CleanShop](https://github.com)** | Web API byggt med Clean Architecture och CQRS | C#, .NET, EF Core |
+| **[RecipeAPI](https://github.com)** | Fullstack-applikation för recepthantering med autentisering | ASP.NET Core, React, JWT, SQL Server |
+| **[ShopFullStack](https://github.com)** | Fullstack-butikshantering från databas till frontend | C#, ASP.NET Core, SQL Server |
+| **[GameTournamentAPI](https://github.com)** | REST API för spelturneringar med Services och DTOs | ASP.NET Core, EF Core, SQL Server |
+| **[SQL-SocialMedia-Database](https://github.com)** | Relationsdatabas med JOIN-frågor och LINQ | SQL Server, C#, EF Core |
+
 
 ## 🎯 Just nu
 
